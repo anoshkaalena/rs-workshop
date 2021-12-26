@@ -1,3 +1,5 @@
 some text for header
 Changes from <master> new add!!!
+Change from <first>
+text from master: new add!!
 
